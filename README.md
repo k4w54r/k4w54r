@@ -17,7 +17,9 @@
 📈 My GitHub Stats
 
 <p align="center" >
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4w54r&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=k4w54r&layout=compact&theme=material-palenight" />
+</a>
 
  <img height="200" src="https://github-readme-stats.vercel.app/api?username=k4w54r&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </p>
+
