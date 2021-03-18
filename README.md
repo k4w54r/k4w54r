@@ -20,7 +20,7 @@
 <br/>
 **Projects with other contributors:**  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ardent-Builds&repo=IUTOJ&show_owner=true)](https://https://github.com/Ardent-Builds/IUTOJ) <br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ardent-Builds&repo=IUTOJ&show_owner=true)](https://github.com/Ardent-Builds/IUTOJ) <br />
 
 📈 My GitHub Stats
 
